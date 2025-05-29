@@ -1,1 +1,1 @@
-# LaneDetection
+Lane Detect is an open-source system designed to enhance autonomous driving and road safety by accurately detecting and tracking lane markings in images and videos. With customizable parameters and intuitive visualization tools, Lane Detect empowers developers to tailor the system to various environments and use cases. Developed using Python, OpenCV, and NumPy, Lane Detect fosters collaboration and innovation within the computer vision community, driving advancements in lane detection algorithms and applications.
